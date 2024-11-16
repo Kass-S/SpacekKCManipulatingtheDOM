@@ -1,7 +1,38 @@
-.space-around{
-    padding: 25px;
+.textBtnChange4{
+    color: brown;
 }
 
-.newStyle{
-    background-color: aquamarine;
+.textBtnChange5{
+    background-color: darksalmon;
+}
+
+.textBtnChange6{
+    color: aquamarine;
+    background-color: darkslategrey;
+}
+
+.textBtnChange7{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.textBtnChange8{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen;
+}
+
+.textBtnChange9{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkcyan;
+    font-size: larger;
+}
+
+.textBtnChange10{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: darkred;
+    background-color: antiquewhite;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
 }
